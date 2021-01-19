@@ -1,0 +1,18 @@
+{
+    "name": "DebuggingTools.Editor",
+    "references": [
+        "DebuggingTools.Runtime",
+        "DebuggingTools.Data"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

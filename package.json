@@ -1,0 +1,18 @@
+{
+    "description": "DreamStorm Debugging Tools",
+    "displayName": "DreamStorm Debugging Tools", 
+    "name": "com.dreamstormstudios.debugging.tools", 
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/dreamstormstudios/Debugging-Tools.git"
+    },
+    "unity": "2020.1",
+    "unityRelease": "17f1",
+    "version": "1.0.0",
+    "samples": [
+    {
+      "displayName": "Example",
+      "description": "Simple custom object logging usage example.",
+      "path": "Samples~/Example"
+    }]
+}

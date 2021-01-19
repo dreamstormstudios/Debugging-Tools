@@ -1,0 +1,12 @@
+{
+    "description": "DreamStorm Debugging Tools Core", 
+    "displayName": "DreamStorm Debugging Tools Core", 
+    "name": "com.dreamstormstudios.debugging.tools.core", 
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/dreamstormstudios/Debugging-Tools.git?path=/Core~"
+    },
+    "unity": "2020.1", 
+    "unityRelease": "17f1", 
+    "version": "1.0.0"
+}
