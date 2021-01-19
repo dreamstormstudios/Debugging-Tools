@@ -8,4 +8,4 @@ You can convert objects to logs by implementing IObjectConverter. This allows fo
 You need to invoke any API from Debugger class.
 Our API follows Unity debug log convention, so you can also replace Unity Debug.Log variants with using Debug = Debugger.Log variant.
 ## License
-[MIT](https://github.com/dreamstormstudios/Debugging-Tools/blob/main/LICENSE)
+[MIT](https://github.com/dreamstormstudios/Debugging-Tools/blob/main/LICENSE.md)
